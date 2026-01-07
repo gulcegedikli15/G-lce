@@ -1,4 +1,12 @@
-Python 3.14.2 (tags/v3.14.2:df79316, Dec  5 2025, 17:18:21) [MSC v.1944 64 bit (AMD64)] on win32
-Enter "help" below or click "Help" above for more information.
->>> print("Hello World")
-Hello World
+#!/usr/bin/env python3
+"""
+A simple Python script that prints a greeting.
+This file was originally a copy of a shell session and has been corrected to be a valid script.
+"""
+
+def main():
+    """Main function to print the greeting."""
+    print("Hello World")
+
+if __name__ == "__main__":
+    main()
